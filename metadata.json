@@ -1,0 +1,6 @@
+{
+  "name": "Metronome",
+  "description": "Ultra-lightweight, high-precision, low-latency analog metronome app with woodblock clicks and customizable time signatures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

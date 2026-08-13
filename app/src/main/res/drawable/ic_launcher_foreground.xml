@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Metronome Body (Pyramidal Silhouette) in Cream #F1E5A1 -->
+    <path
+        android:fillColor="#F1E5A1"
+        android:pathData="M38,80 L70,80 L62,28 L46,28 Z" />
+        
+    <!-- Metronome Base Stand / Feet -->
+    <path
+        android:fillColor="#D8CA7E"
+        android:pathData="M34,80 L74,80 L72,84 L36,84 Z" />
+
+    <!-- Inner Hollow Scale Face -->
+    <path
+        android:fillColor="#22110D"
+        android:pathData="M42,76 L66,76 L60,34 L48,34 Z" />
+
+    <!-- Scale ticks in warm cream -->
+    <path
+        android:strokeColor="#77F1E5A1"
+        android:strokeWidth="1"
+        android:pathData="M50,42 L58,42 M49,50 L59,50 M48,58 L60,58 M47,66 L61,66" />
+
+    <!-- Metronome Pendulum Arm (Tilted swinging rod) in Green #486C2F -->
+    <path
+        android:strokeColor="#486C2F"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,74 L61,30" />
+
+    <!-- Sliding Weight on Pendulum in Vibrant Orange #EF6905 -->
+    <path
+        android:fillColor="#EF6905"
+        android:pathData="M56,44 L62,45 L61,50 L55,49 Z" />
+
+    <!-- Bottom pivot circle -->
+    <path
+        android:fillColor="#486C2F"
+        android:pathData="M54,74 m -3,0 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0" />
+</vector>
+
