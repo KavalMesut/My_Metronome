@@ -7,7 +7,7 @@ Modern, ultra-dusuk gecikmeli (low-latency), sifir zamanlama kaymali (zero-drift
 ## Ekran Goruntusu
 
 <p align="center">
-  <img src="screenshots/metronome_preview.png" alt="Metronom Ekran Goruntusu" width="340"/>
+  <img src="screenshots/metronome_preview.jpg" alt="Metronom Ekran Goruntusu" width="340"/>
 </p>
 
 ---
